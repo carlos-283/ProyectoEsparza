@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/adaptive"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/alwaysencrypted"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/azureactivedirectoryauthentication"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/connections"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/constrained"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/dataclassification"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/datatypes"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/resultsets"/>
+	<classpathentry kind="src" path="sqljdbc_8.2/enu/samples/sparse"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/miglayout-4.0-swing.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mssql-jdbc-8.2.2.jre11.jar"/>
+	<classpathentry kind="lib" path="dist/ProyectoCaptura.jar"/>
+	<classpathentry kind="lib" path="miglayout-4.0-swing.jar"/>
+	<classpathentry kind="lib" path="sqljdbc_8.2/enu/mssql-jdbc-8.2.2.jre11.jar"/>
+	<classpathentry kind="lib" path="sqljdbc_8.2/enu/mssql-jdbc-8.2.2.jre13.jar"/>
+	<classpathentry kind="lib" path="sqljdbc_8.2/enu/mssql-jdbc-8.2.2.jre8.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
